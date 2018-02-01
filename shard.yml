@@ -8,10 +8,6 @@ crystal: 0.24.1
 
 license: MIT
 
-targets:
-  saludo:
-    main: src/amber_saludo.cr
-
 dependencies:
   amber:
     github: amberframework/amber

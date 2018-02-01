@@ -2,7 +2,7 @@
 
 ![saludo](https://i.imgur.com/o02YW63.png)
 
-This is an project example trying to create a plugin for [Amber Framework](https://amberframework.org) based on Amber::CLI
+This is an project example trying to create a plugin for [Amber Framework](https://amberframework.org) based on `Amber::CLI`
 
 ## Installation
 
