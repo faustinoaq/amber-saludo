@@ -14,7 +14,7 @@ targets:
     main: lib/amber-saludo/src/amber_saludo.cr
 
 dependencies:
-  saludo:
+  amber_saludo:
     github: faustinoaq/amber-saludo
 ```
 
