@@ -18,7 +18,7 @@ dependencies:
     github: faustinoaq/amber-saludo
 ```
 
-Then execute `shards install && shards build saludo`
+Then execute `shards build saludo`
 
 ## Usage
 
