@@ -1,0 +1,17 @@
+name: amber_saludo
+version: 0.1.0
+
+authors:
+  - Faustino Aguilar <faustinoaq@gmail.com>
+
+crystal: 0.24.1
+
+license: MIT
+
+targets:
+  saludo:
+    main: src/amber_saludo.cr
+
+dependencies:
+  amber:
+    github: amberframework/amber
