@@ -11,7 +11,7 @@ Add this to your application's `shard.yml`:
 ```yaml
 targets:
   saludo:
-    main: lib/amber-saludo/src/amber_saludo.cr
+    main: lib/amber_saludo/src/amber_saludo.cr
 
 dependencies:
   amber_saludo:
