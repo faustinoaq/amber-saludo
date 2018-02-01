@@ -8,7 +8,7 @@ module Amber::CLI
     end
 
     class Options
-      version desc: "Prints Amber version"
+      version desc: "Prints AmberSaludo version"
       help desc: "Describe available commands and usages"
     end
   end
