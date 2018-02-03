@@ -48,7 +48,7 @@ Print `saludo` version.
 
 ## Development
 
-Based on `Amber::CLI`, check [Amber repo](https://github.com/amberframwork/amber) for more info.
+Based on `Amber::CLI`, check [Amber repo](https://github.com/amberframework/amber) for more info.
 
 ## Contributing
 
